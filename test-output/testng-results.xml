@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="3" total="4" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-26T11:22:59 IST" name="Default suite" finished-at="2023-05-26T11:23:09 IST" duration-ms="9468">
+    <groups>
+    </groups>
+    <test started-at="2023-05-26T11:22:59 IST" name="Default test" finished-at="2023-05-26T11:23:09 IST" duration-ms="9468">
+      <class name="com.test.Addresses">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.test.Addresses@4d9e68d0]" started-at="2023-05-26T11:22:59 IST" name="beforeMethod" finished-at="2023-05-26T11:23:00 IST" duration-ms="873" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="getPrimaryAddress()[pri:0, instance:com.test.Addresses@4d9e68d0]" started-at="2023-05-26T11:23:00 IST" name="getPrimaryAddress" finished-at="2023-05-26T11:23:09 IST" duration-ms="8504" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getPrimaryAddress -->
+      </class> <!-- com.test.Addresses -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
